@@ -10,7 +10,7 @@ These days I'm
 BIO
 
     🏢 I'm currently working as a manager of sales in IT niche
-    ⚙️ I use daily: ![image](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+    ⚙️ I use daily: <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
     🌍 I'm mostly active within the 
     💅 Designed: 
     🌱 Learning all about Open Source
