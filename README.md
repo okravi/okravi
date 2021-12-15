@@ -18,3 +18,4 @@ BIO
     ⚡️ Fun fact: I'm a huge fan of Harry Potter
 
 https://github-readme-stats.vercel.app/api?username=okravi
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<okravi>" />
