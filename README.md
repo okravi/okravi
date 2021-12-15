@@ -17,4 +17,4 @@ BIO
     📫 Reach me: twitter.com/caneco
     ⚡️ Fun fact: I'm a huge fan of Harry Potter
 
-https://github-readme-stats.vercel.app/api?username={okravi}
+https://github-readme-stats.vercel.app/api?username=okravi
