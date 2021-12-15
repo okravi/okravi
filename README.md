@@ -30,6 +30,6 @@ BIO
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=okravi"></a> 
+  <a href="#"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></a> 
 </p>
 
