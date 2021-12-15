@@ -39,4 +39,4 @@ BIO
   <a href="#"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></a> 
 </p>
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=elonmusk)](https://github.com/gazf/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=elonmusk&layout=wide)](https://github.com/gazf/github-readme-twitter)
