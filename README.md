@@ -18,5 +18,5 @@ BIO
     ⚡️ Fun fact: 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okravi&hide=stars,commits,prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okravi&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okravi)](https://github.com/anuraghazra/github-readme-stats)
