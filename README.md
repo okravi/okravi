@@ -10,7 +10,7 @@ These days I'm
 BIO
 
     🏢 I'm currently working as a manager of sales in IT niche
-    ⚙️ I use daily:  [![CV Badge](https://img.shields.io/badge/My_CV-informational?style=flat&logo=cv&logoColor=white&color=3749C6)](https://drive.google.com/file/d/1sQhLW9jYuLhDhlk3zBnhCHbmKHPHJlaL/view?usp=sharing)
+    ⚙️ I use daily: 
     💅 Designed: 
     🌱 Learning all about Open Source
     💬 Ping me about design, branding, laravel, development, design thinking
