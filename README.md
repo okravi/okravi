@@ -1,5 +1,5 @@
-Hi there 👋
-I'm a 
+Hey, I'm Alex!  👋
+I'm learning Kotlin and strive to bring clean and performative code to the table.
 NOW
 
     ✨ 
@@ -8,7 +8,7 @@ NOW
 
 BIO
 
-    🏢 I'm currently working
+    🏢 I'm currently working 
     ⚙️ I use daily: 
     🌍 I'm mostly active within the 
     💅 Designed: 
