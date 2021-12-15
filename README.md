@@ -28,3 +28,8 @@ BIO
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/okravi/okravi"></a> 
 </p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=okravi"></a> 
+</p>
+
