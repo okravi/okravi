@@ -1,10 +1,10 @@
 Hi there 👋
-I'm a Full-Stack Developer working in Lisbon, Portugal.
+I'm a 
 NOW
 
-    ✨ Crafted last Laracon Online website;
-    🇵🇹 Planing the "Tuga-Co-Op";
-    🍑 What about this?
+    ✨ 
+    🇵🇹 
+    🍑 
 
 BIO
 
