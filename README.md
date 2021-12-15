@@ -24,7 +24,7 @@ BIO
 
 [![okravi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=okravi)](https://github.com/anuraghazra/github-readme-stats)
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/okravi/count.svg)
 
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/okravi/okravi"></a> 
