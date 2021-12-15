@@ -18,11 +18,11 @@ BIO
     📫 Reach me: 
     ⚡️ Fun fact: 
     
-## 📫 How to reach me
-[![Telegram Badge](https://img.shields.io/badge/Telegram-informational?style=flat&logo=Telegram&logoColor=white&color=1086CA)](https://t.me/Yulya_Boiko)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-informational?style=flat&logo=Gmail&logoColor=white&color=D54B3C)](mailto:yulchitaiboldireva@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/yulia-boiko/)
-[![Visits Badge](https://badges.pufler.dev/visits/BoikoYV/BoikoYV)](https://github.com/BoikoYV)
+
+[![Telegram Badge](https://img.shields.io/badge/Telegram-informational?style=flat&logo=Telegram&logoColor=white&color=1086CA)](https://t.me/okrav)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-informational?style=flat&logo=Gmail&logoColor=white&color=D54B3C)](mailto:a@b.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alexander-ollie-kravchenko-he-him-0829ab18a/)
+[![Visits Badge](https://badges.pufler.dev/visits/okravi/okravi)](https://github.com/okravi)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okravi&hide=prs,contribs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
