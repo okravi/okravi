@@ -23,7 +23,7 @@ BIO
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okravi&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![okravi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=okravi)](https://github.com/anuraghazra/github-readme-stats)
-
+[![okravi's wakatime stats](https://github-readme-streak-stats.herokuapp.com/?user=okravi)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/okravi/okravi"></a> 
