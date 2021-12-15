@@ -1,14 +1,15 @@
 Hey, I'm Alex!  👋
 I'm learning Kotlin and strive to bring clean and performative code to the table.
-NOW
 
-    ✨ 
+These days I'm
+
+    ✨ Studying Recycler Views
     🇵🇹 
     🍑 
 
 BIO
 
-    🏢 I'm currently working 
+    🏢 I'm currently working as a manager of sales in IT niche
     ⚙️ I use daily: 
     🌍 I'm mostly active within the 
     💅 Designed: 
