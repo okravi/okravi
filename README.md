@@ -10,7 +10,7 @@ These days I'm
 BIO
 
     🏢 I'm currently working as a manager of sales in IT niche
-    ⚙️ I use daily: ![image](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+    ⚙️ I use daily: ![image](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
     🌍 I'm mostly active within the 
     💅 Designed: 
     🌱 Learning all about Open Source
@@ -24,7 +24,6 @@ BIO
 
 [![okravi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=okravi)](https://github.com/anuraghazra/github-readme-stats)
 
-![Visitor Count](https://profile-counter.glitch.me/okravi/count.svg)
 
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/okravi/okravi"></a> 
