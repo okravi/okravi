@@ -11,6 +11,7 @@ BIO
 
     🏢 I'm currently working as a manager of sales in IT niche
     ⚙️ I use daily:  <a href="#"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></a> 
+    ![image](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
     💅 Designed: 
     🌱 Learning all about Open Source
     💬 Ping me about design, branding, laravel, development, design thinking
