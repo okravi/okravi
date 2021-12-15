@@ -19,3 +19,5 @@ BIO
 
 https://github-readme-stats.vercel.app/api?username=okravi
 <img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<okravi>&theme=<THEME_NAME>" />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okravi)](https://github.com/anuraghazra/github-readme-stats)
