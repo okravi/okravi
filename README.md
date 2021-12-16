@@ -15,18 +15,19 @@
     ⚡️ 
     ⚡️ 
     
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=elonmusk)](https://github.com/gazf/github-readme-twitter) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=okravi)
-
+ <div class="container"> 
+<img src="https://github-readme-twitter.gazf.vercel.app/api?id=elonmusk&layout=wide" align="center" style="vertical-align:middle" width="40%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="50%" align="center" style="vertical-align:middle" >
+ </div> 
+ 
+<p>&nbsp;</p> 
+<p></p> 
 
 
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/okravi/okravi"></a> 
 </p>
 
- <div class="container"> 
-<img src="https://github-readme-twitter.gazf.vercel.app/api?id=elonmusk&layout=wide" align="right" style="vertical-align:middle" width="40%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="50%" align="right" style="vertical-align:middle" >
- </div> 
 
 
 
