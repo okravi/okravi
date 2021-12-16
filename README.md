@@ -22,17 +22,15 @@ BIO
     ⚡️ Fun fact: 
     
 
-[![Visits Badge](https://badges.pufler.dev/visits/okravi/okravi)](https://github.com/okravi)
 
 
 
-[![okravi's wakatime stats](https://github-readme-streak-stats.herokuapp.com/?user=okravi&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=okravi"></a> 
 </p>
 <p align='center'>
-  <a href="#"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></a> 
+  <a href="#"><img src="https://badges.pufler.dev/visits/okravi/okravi"></a> 
 </p>
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=elonmusk&layout=wide)](https://github.com/gazf/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=elonmusk&layout=wide&show_border=off)](https://github.com/gazf/github-readme-twitter)
