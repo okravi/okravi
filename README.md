@@ -7,12 +7,12 @@
 
     📫 Random Bits:
 
-    🏢 I'm currently working as a manager of sales in IT niche
-    ⚙️ I use daily: 
-    💅 Designed: 
-    🌱 Learning all about Open Source
-    💬 Ping me about design, branding, laravel, development, design thinking
-    📫 Reach me: 
+    ⚡️ I'm currently working as a manager of sales in IT niche
+    ⚡️ I use daily: 
+    ⚡️ Designed: 
+    ⚡️ Learning all about Open Source
+    ⚡️ Ping me about design, branding, laravel, development, design thinking
+    ⚡️ Reach me: 
     ⚡️ Fun fact: 
     
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=elonmusk)](https://github.com/gazf/github-readme-twitter) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=okravi)
