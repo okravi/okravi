@@ -12,7 +12,7 @@
     ⚡️ I happen to have lived in Philly, PA circa 20 years back
     ⚡️ One can find live shrimp in my house
     ⚡️ I'm pro open-market
-    ⚡️ There was a month I've given the most tickets as a police officer in my department
+    ⚡️ There was a month I've given the most tickets in my police department
     ⚡️ 
     ⚡️ 
     
