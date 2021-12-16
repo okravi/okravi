@@ -15,12 +15,10 @@ BIO
     ⚡️ Fun fact: 
     
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=elonmusk&layout=wide)](https://github.com/gazf/github-readme-twitter)
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=okravi)]
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=okravi"></a> 
-</p>
+
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/okravi/okravi"></a> 
 </p>
-
 
