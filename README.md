@@ -5,7 +5,7 @@
 [![ProtonMail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:okravi@protonmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alexander-ollie-kravchenko-he-him-0829ab18a/)
 
-    Random Bits:
+    📫 Random Bits:
 
     🏢 I'm currently working as a manager of sales in IT niche
     ⚙️ I use daily: 
