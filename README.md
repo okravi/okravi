@@ -22,3 +22,11 @@
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/okravi/okravi"></a> 
 </p>
+
+ <div class="container"> 
+<img src="https://github-readme-twitter.gazf.vercel.app/api?id=elonmusk&layout=wide" align="right" style="vertical-align:middle" width="40%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="50%" align="right" style="vertical-align:middle" >
+ </div> 
+
+
+
