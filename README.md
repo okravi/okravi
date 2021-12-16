@@ -17,7 +17,7 @@
     
  <div class="container"> 
 <img src="https://github-readme-twitter.gazf.vercel.app/api?id=elonmusk&layout=wide" align="center" style="vertical-align:middle" width="44%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="54%" align="center" style="vertical-align:middle" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=okravi&theme=dark" width="54%" align="center" style="vertical-align:middle" >
  </div> 
  
 <p>&nbsp;</p> 
