@@ -15,7 +15,7 @@ BIO
     📫 Reach me: 
     ⚡️ Fun fact: 
     
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=elonmusk&layout=wide&show_border=off)](https://github.com/gazf/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=elonmusk&layout=wide)](https://github.com/gazf/github-readme-twitter)
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=okravi"></a> 
