@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%230E3ACF&multiline=true&width=600&height=80&lines=Hey%2C+I'm+Alex!++%F0%9F%91%8B;I'm+studying+Kotlin+and+I+strive+to+bring+clean;+and+performative+code+to+the+table.)](https://git.io/typing-svg)
 
 Hey, I'm Alex!  👋
 I'm learning Kotlin and strive to bring clean and performative code to the table.
