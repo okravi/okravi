@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 Hey, I'm Alex!  👋
 I'm learning Kotlin and strive to bring clean and performative code to the table.
 
