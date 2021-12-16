@@ -1,4 +1,4 @@
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%230E3ACF&multiline=true&width=600&height=80&lines=Hey%2C+I'm+Alex!++%F0%9F%91%8B;I'm+studying+Kotlin+and+I+strive+to+bring+clean;+and+maintainable+code+to+the+table.)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%230E3ACF&multiline=true&width=600&height=80&lines=Hey%2C+I'm+Alex!++%F0%9F%91%8B;I'm+studying+Kotlin+and+I+strive+to+bring+clean;+and+maintainable+code+to+the+table+no+matter+what.)](https://git.io/typing-svg)
 
     📫 Reach me on: 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-informational?style=flat&logo=Telegram&logoColor=white&color=1086CA)](https://t.me/okrav)
@@ -8,9 +8,9 @@
     📫 Random Bits:
 
     ⚡️ I'm currently working as a manager of sales in IT niche
-    ⚡️ I use daily: 
-    ⚡️ Designed: 
-    ⚡️ Learning all about Open Source
+    ⚡️ I happen to have lived in Philly, PA circa 20 years back
+    ⚡️ One can find live shrimp in my house
+    ⚡️ I'm pro open-market
     ⚡️ Ping me about design, branding, laravel, development, design thinking
     ⚡️ Reach me: 
     ⚡️ Fun fact: 
@@ -22,4 +22,3 @@
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/okravi/okravi"></a> 
 </p>
-
