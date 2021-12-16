@@ -11,9 +11,9 @@
     ⚡️ I happen to have lived in Philly, PA circa 20 years back
     ⚡️ One can find live shrimp in my house
     ⚡️ I'm pro open-market
-    ⚡️ Ping me about design, branding, laravel, development, design thinking
-    ⚡️ Reach me: 
-    ⚡️ Fun fact: 
+    ⚡️ 
+    ⚡️ 
+    ⚡️ 
     
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=elonmusk)](https://github.com/gazf/github-readme-twitter) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=okravi)
 
