@@ -2,6 +2,7 @@
 
     📫 Tech stack:
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
 
     📫 Reach me on: 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-informational?style=flat&logo=Telegram&logoColor=white&color=1086CA)](https://t.me/okrav)
