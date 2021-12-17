@@ -13,7 +13,7 @@
     ⚡️ One can find live shrimp in my house
     ⚡️ I'm pro open-market
     ⚡️ There was a month I've given the most tickets in my police department
-    ⚡️ 
+    ⚡️ Pronouns: he/him
     ⚡️ 
     
     
