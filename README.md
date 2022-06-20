@@ -34,7 +34,7 @@
 
 
 <p align='center'>
-<a href="#"><img src="https://github.r2v.ch/codewars?user=okravi&stroke=%231D87C4&name=true&theme=nightowl&name=true"></a> 
+<a href="#"><img src="https://github.r2v.ch/codewars?user=okravi&stroke=%231D87C4&name=true&theme=highcontrast&name=true"></a> 
 </p>
 
 <p align='center'>
