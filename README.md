@@ -35,10 +35,12 @@
 
 <p align='center'>
 <a href="#"><img src="https://github.r2v.ch/codewars?user=okravi&stroke=%23BB432C"></a> 
+</p>
+
+<p align='center'>
 <a href="#"><img src="https://badges.pufler.dev/visits/okravi/okravi"></a> 
 </p>
 
-![Codewars](https://github.r2v.ch/codewars?user=okravi&stroke=%23BB432C)
 
 
 
