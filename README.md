@@ -34,6 +34,7 @@
 
 
 <p align='center'>
+    ![Codewars](https://github.r2v.ch/codewars?user=okravi&stroke=%23BB432C)
   <a href="#"><img src="https://badges.pufler.dev/visits/okravi/okravi"></a> 
 </p>
 
