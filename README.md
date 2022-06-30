@@ -18,7 +18,7 @@
     ⚡️ I'm pro open-market
     ⚡️ There was a month I've given the most tickets in my police department
     ⚡️ Pronouns: he/him
-    ⚡️ I'm 36
+    ⚡️ I'm (Calendar.getInstance().get(Calendar.YEAR) - 1985) y.o.
     
     
 <p>&nbsp;</p> 
