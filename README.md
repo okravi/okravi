@@ -7,9 +7,9 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
     📫 Reach me on: 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-informational?style=flat&logo=Telegram&logoColor=white&color=1086CA)](https://t.me/okrav)
-[![ProtonMail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:okravi@protonmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alexander-ollie-kravchenko-he-him-0829ab18a/)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/okrav)
+[![ProtonMail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:okravi@protonmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-ollie-kravchenko-he-him-0829ab18a/)
 
 
     📫 Random Bits about me:
@@ -27,7 +27,7 @@
 <p></p> 
 
  <div class="container"> 
-<img src="https://github.r2v.ch/codewars?user=okravi&stroke=%231D87C4&name=true&theme=highcontrast&name=true" align="center" style="vertical-align:middle" width="49%">
+<img src="https://github.r2v.ch/codewars?user=okravi&stroke=%231D87C4&name=true&theme=highcontrast&name=true" align="center" style="vertical-align:middle" width="50%">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=okravi&theme=dark" width="49%" align="center" style="vertical-align:middle" >
  </div> 
  
