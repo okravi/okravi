@@ -27,17 +27,12 @@
 <p></p> 
 
  <div class="container"> 
-<img src="https://github.r2v.ch/codewars?user=okravi&stroke=%231D87C4&name=true&theme=highcontrast&name=true" align="center" style="vertical-align:middle" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=okravi&theme=dark" width="50%" align="center" style="vertical-align:middle" >
+<img src="https://github.r2v.ch/codewars?user=okravi&stroke=%231D87C4&name=true&theme=highcontrast&name=true" align="center" style="vertical-align:middle" width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=okravi&theme=dark" width="48%" align="center" style="vertical-align:middle" >
  </div> 
  
 <p>&nbsp;</p> 
 <p></p> 
-
-
-<p align='center'>
-<a href="#"><img src="https://github.r2v.ch/codewars?user=okravi&stroke=%231D87C4&name=true&theme=highcontrast&name=true"></a> 
-</p>
 
 <p align='center'>
 <a href="#"><img src="https://badges.pufler.dev/visits/okravi/okravi"></a> 
