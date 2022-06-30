@@ -4,8 +4,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)!
 
     📫 Reach me on: 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-informational?style=flat&logo=Telegram&logoColor=white&color=1086CA)](https://t.me/okrav)
@@ -28,8 +27,8 @@
 <p></p> 
 
  <div class="container"> 
-<img src="https://github.r2v.ch/codewars?user=okravi&stroke=%231D87C4&name=true&theme=highcontrast&name=true" align="center" style="vertical-align:middle" width="44%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=okravi&theme=dark" width="54%" align="center" style="vertical-align:middle" >
+<img src="https://github.r2v.ch/codewars?user=okravi&stroke=%231D87C4&name=true&theme=highcontrast&name=true" align="center" style="vertical-align:middle" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=okravi&theme=dark" width="50%" align="center" style="vertical-align:middle" >
  </div> 
  
 <p>&nbsp;</p> 
