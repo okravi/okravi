@@ -24,7 +24,6 @@
     
     
 <p>&nbsp;</p> 
-<p></p> 
 
  <div class="container"> 
 <img src="https://github.r2v.ch/codewars?user=okravi&stroke=%231D87C4&name=true&theme=highcontrast&name=true" align="center" style="vertical-align:middle" width="50%">
