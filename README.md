@@ -22,8 +22,6 @@
     ⚡️ Pronouns: he/him
     ⚡️ I'm (Calendar.getInstance().get(Calendar.YEAR) - 1985) y.o.
     
-    
-<p>&nbsp;</p> 
 
  <div class="container"> 
 <img src="https://github.r2v.ch/codewars?user=okravi&stroke=%231D87C4&name=true&theme=highcontrast&name=true" align="center" style="vertical-align:middle" width="50%">
