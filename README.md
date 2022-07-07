@@ -32,7 +32,7 @@
 <p></p> 
 
 <p align='center'>
-<a href="#"><img src="https://badges.pufler.dev/visits/okravi/okravi"></a> 
+<a href="#"><img src="[https://badges.pufler.dev/visits/okravi/okravi](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fokravi%2F&labelColor=%23d9e3f0&countColor=%23697689)"></a> 
 </p>
 
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fokravi%2F&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fokravi%2F)
