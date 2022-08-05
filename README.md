@@ -18,7 +18,7 @@
 
     📫 Random Bits about me:
 
-    ⚡️ I'm currently working as a manager of sales in IT
+    ⚡️ I'm a sales manager in an outsource IT company in Ukraine
     ⚡️ I happen to have lived in Philly, PA circa 20 years back
     ⚡️ One can find live shrimp in my house
     ⚡️ I'm pro open-market
