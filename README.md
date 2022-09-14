@@ -1,3 +1,6 @@
+<codersrank-skills-chart username="okravi"></codersrank-skills-chart>
+
+
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%231D87C4&size=15&multiline=true&width=600&height=70&lines=Hey%2C+I'm+Alex!++%F0%9F%91%8B;I+absolutely+adore+Java+and+strive+to+bring;clean+and+maintainable+code+to+the+table+no+matter+what.)](https://git.io/typing-svg)
 
     📫 Tech stack:
@@ -38,8 +41,6 @@
  
 <p>&nbsp;</p> 
 <p></p> 
-
-<codersrank-skills-chart username="okravi"></codersrank-skills-chart>
 
 <p align='center'>
 <a href="#"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fokravi%2F&labelColor=%23697689&countColor=%23d9e3f0&style=flat&labelStyle=upper"></a> 
