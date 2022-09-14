@@ -39,6 +39,8 @@
 <p>&nbsp;</p> 
 <p></p> 
 
+<codersrank-skills-chart username="okravi"></codersrank-skills-chart>
+
 <p align='center'>
 <a href="#"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fokravi%2F&labelColor=%23697689&countColor=%23d9e3f0&style=flat&labelStyle=upper"></a> 
 </p>
