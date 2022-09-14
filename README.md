@@ -39,7 +39,7 @@
 <p>&nbsp;</p> 
 <p></p> 
 
-![Coders Rank](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=okravi&bg=%23161b22)
+![Coders Rank](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=okravi&bg=%23c7d0dc)
 
 <p align='center'>
 <a href="#"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fokravi%2F&labelColor=%23697689&countColor=%23d9e3f0&style=flat&labelStyle=upper"></a> 
