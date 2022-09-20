@@ -41,7 +41,7 @@
 <p>&nbsp;</p> 
 <p></p> 
 
-![Coders Rank](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=okravi&bg=%23c7d0dc&skills="Kotlin,Java,HTML,JSON")
+![Coders Rank](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=okravi&bg=%23c7d0dc&skills="KOTLIN,Java,HTML,JSON")
 
 <p align='center'>
 <a href="#"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fokravi%2F&labelColor=%23697689&countColor=%23d9e3f0&style=flat&labelStyle=upper"></a> 
