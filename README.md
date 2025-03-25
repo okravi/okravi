@@ -1,5 +1,3 @@
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%231D87C4&size=15&multiline=true&width=600&height=70&lines=Hey%2C+I'm+Alex!++%F0%9F%91%8B;I+absolutely+adore+Java+and+strive+to+bring;clean+and+maintainable+code+to+the+table+no+matter+what.)](https://git.io/typing-svg)
-
     📫 Tech stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
