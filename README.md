@@ -25,12 +25,11 @@
 
     📫 Random Bits about me:
 
-    ⚡️ I'm a sales manager in an IT company in Ukraine
+    ⚡️ I'm a business development manager in an IT company in Ukraine
     ⚡️ I happen to have lived in Philly, PA circa 20 years back
     ⚡️ One can find live shrimp in my house
     ⚡️ I'm pro open-market
     ⚡️ There was a month I've given the most tickets in my police department
-    ⚡️ Pronouns: he/him
     ⚡️ I'm (Calendar.getInstance().get(Calendar.YEAR) - 1985) y.o.
     
 
